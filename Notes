@@ -1,0 +1,12 @@
+Spring
+	1. Dependence Injection
+		Spring is container of beans or behave like factory of beans
+		
+		For example:
+		Tomcat  is servlet container, which means tomcat creates servlet object that Req.
+		Tomcat reads XML and create objects according to XML configuration file.
+
+		similarly spring Beans are part of Bean factory and provide required objects acc.
+		to Spring XML configuration file.
+		
+		   
